@@ -204,22 +204,11 @@ The `cloudlaunch-user` has been granted read-only access to VPC resources throug
 
 ---
 
-## Access Information
-
-For evaluator access credentials and AWS account details, please see the **CREDENTIALS.txt** file in this repository.
-
----
-
 ## Notes
 
 - All resources deployed in **us-east-1** region
 - No paid AWS resources used (EC2, NAT Gateway, RDS, etc.)
 - VPC architecture designed for future expansion
 - **Important**: Resources will be deleted after evaluation to avoid AWS charges
-
----
-
-**Project completed**: October 2024
-```
 
 ---
